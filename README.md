@@ -1,4 +1,4 @@
-# Hi there 👋
+#  GIHYUN Baek👋
 
 <div align="center">
 <p>
@@ -20,5 +20,5 @@
 
 **Mar, 2019 - Present**
 
-* **Myongji University, South Korea**
+ **Myongji University, South Korea**
   * B.S. in Computer Engineering
