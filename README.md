@@ -16,5 +16,19 @@
 
 
 ### Education
-Myongji University, South Korea    
-B.S. in Computer Engineering
+
+<div class="table-responsive"> 
+  <table class="table table-sm table-borderless">
+    <tbody>
+      <tr> 
+        <th scope="row">Mar, 2019 - Present</th> 
+        <td> 
+          <br> Myongji University, South Korea
+          <br> B.S. in Computer Engineering
+        </td> 
+      </tr> 
+      
+    </tbody>
+  </table> 
+
+</div>
