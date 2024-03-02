@@ -16,7 +16,7 @@
 
 
 
-## Education
+## Education 🎓
 
 **Mar, 2019 - Present**
 
@@ -24,7 +24,7 @@
   * B.S. in Computer Engineering
 
 
-## Awards
+## Awards 🏆
 
 **2023**
 
