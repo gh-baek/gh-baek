@@ -22,3 +22,11 @@
 
 * **Myongji University, South Korea**
   * B.S. in Computer Engineering
+
+
+## Awards
+
+**2023**
+
+* **AI Challenge for Biodiversity**
+  * Participation Prize
