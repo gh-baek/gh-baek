@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <div align="center">
 <p>
@@ -14,4 +14,7 @@
 </p>
 </div>
 
-I'M learning for M/D Learning
+
+### Education
+Myongji University, South Korea    
+B.S. in Computer Engineering
