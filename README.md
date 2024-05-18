@@ -25,7 +25,7 @@
 
 ## Awards 🏆
 
-**2023**
+**2024**
 
 * **AI Challenge for Biodiversity**
   * Participation Prize
