@@ -26,5 +26,5 @@
 
 **2024**
 
-* **AI Challenge for Biodiversity / Microsoft Korea** *
+* **AI Challenge for Biodiversity / Microsoft Korea** 
   * Participation Prize
