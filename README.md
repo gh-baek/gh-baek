@@ -1,6 +1,6 @@
-#  GIHYUN Baek👋
+#  GIHYUN Baek
 
-## Education 🎓
+## Education 
 
 **Mar, 2019 - Feb, 2025**
 
@@ -12,7 +12,7 @@
 * **DGIST, South Korea**
   * M.S. in Electrical Engineering and Computer Science
 
-## Awards 🏆
+## Awards 
 
 **2024**
 
